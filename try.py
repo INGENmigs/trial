@@ -1,2 +1,2 @@
 print('hello world')
-print('SCM Workflow is confusing!')
+print('SCM Workflow is fun!')
